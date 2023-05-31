@@ -10,5 +10,8 @@
         <module name="jwtSecurity.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jwtSpringSecurity" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
